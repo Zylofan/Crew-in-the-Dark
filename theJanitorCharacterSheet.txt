@@ -1,0 +1,21 @@
+┌─────────────────────┐                                  ❬[bold]C I T D[/bold]❭
+        [head=3]The Janitor[/head] 
+└─────────────────────┘
+
+[color=#ff0f0f][bold]Health:[/bold] ◯ ◯ ◯[/color]     [color=#ffaa0f][bold]Energy:[/bold] ▽ ▽ ▽ ▽ ▽[/color]
+
+ [color=#640096]Awareness[/color]                  [color=#960000]Robustness[/color]                 [color=#003b96]Determination[/color] 
+[color=#640096]┌────────────┐[/color][color=#960000]┌────────────┐[/color][color=#003b96]┌────────────┐[/color]
+   [color=#640096]◇│◇◇ Heal[/color]             [color=#960000]◈│◈◇ Move [/color]          [color=#003b96]◈│◇◇ Trick[/color]
+   [color=#640096]◇│◇◇ Make[/color]           [color=#960000]◈│◇◇ Fight[/color]            [color=#003b96]◇│◇◇ Sway[/color]
+   [color=#640096]◈│◈◈ Find[/color]             [color=#960000]◇│◇◇ Shoot[/color]           [color=#003b96]◈│◈◇ Sneak [/color]
+   [color=#640096]◇│◇◇ File[/color]               [color=#960000]◇│◇◇ Hack[/color]            [color=#003b96]◈│◇◇ Yell[/color]                                 [color=#640096]└────────────┘[/color][color=#960000]└────────────┘[/color][color=#003b96]└────────────┘[/color]  
+[color=#ffd929][bold]Abilities[/bold]
+─────────────────────────────────────────[/color]
+[color=#ffd929]✦[/color][bold] Trash Panda:[/bold] When you look through trash to find something you have increased effect.
+[color=#ffd929]✦[/color][bold] Mop-Fu:[/bold] You gain +1d when attacking something with a mop. Mops always have less effect when used as a weapon.
+[color=#ffd929]✦[/color][bold] Janitor Keys:[/bold]You can push yourself to have basic access to any department besides command.
+
+[color=#515151][bold]Gear[/bold]
+─────────────────────────────────────────[/color]
+Mop, Bucket with water, Keys to the Jani-cart, Galoshes

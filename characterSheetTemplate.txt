@@ -1,0 +1,21 @@
+┌─────────────────────┐                                  ❬[bold]C I T D[/bold]❭
+        [head=3]Position Name Here[/head] 
+└─────────────────────┘
+
+[color=#ff0f0f][bold]Health:[/bold] ◯ ◯ ◯ ◯[/color]     [color=#ffaa0f][bold]Energy:[/bold] ▽ ▽ ▽ ▽ ▽ ▽[/color]
+
+ [color=#640096]Awareness[/color]                  [color=#960000]Robustness[/color]                 [color=#003b96]Determination[/color] 
+[color=#640096]┌────────────┐[/color][color=#960000]┌────────────┐[/color][color=#003b96]┌────────────┐[/color]
+   [color=#640096]◈│◇◇ Heal[/color]             [color=#960000]◇│◇◇ Sneak[/color]          [color=#003b96]◇│◇◇ Trick[/color]
+   [color=#640096]◇│◇◇ Make[/color]           [color=#960000]◇│◇◇ Fight[/color]            [color=#003b96]◇│◇◇ Sway[/color]
+   [color=#640096]◇│◇◇ Find[/color]             [color=#960000]◇│◇◇ Shoot[/color]           [color=#003b96]◇│◇◇ Sprint [/color]
+   [color=#640096]◇│◇◇ File[/color]               [color=#960000]◇│◇◇ Hack[/color]            [color=#003b96]◇│◇◇ Yell[/color]                                 [color=#640096]└────────────┘[/color][color=#960000]└────────────┘[/color][color=#003b96]└────────────┘[/color]  
+[color=#ffd929][bold]Abilities[/bold]
+─────────────────────────────────────────[/color]
+[color=#ffd929]✦[/color][bold]Name:[/bold]
+[color=#ffd929]✦[/color][bold]Name:[/bold]
+[color=#ffd929]✦[/color][bold]Name:[/bold]
+
+[color=#515151][bold]Gear[/bold]
+─────────────────────────────────────────[/color]
+Some gear, goes here, like this, dont think,

@@ -1,0 +1,21 @@
+┌─────────────────────┐                                  ❬[bold]C I T D[/bold]❭
+        [head=3]The Librarian[/head] 
+└─────────────────────┘
+
+[color=#ff0f0f][bold]Health:[/bold] ◯ ◯ [/color]     [color=#ffaa0f][bold]Energy:[/bold] ▽ ▽ ▽ ▽ ▽ ▽[/color]
+
+ [color=#640096]Awareness[/color]                  [color=#960000]Robustness[/color]                 [color=#003b96]Determination[/color] 
+[color=#640096]┌────────────┐[/color][color=#960000]┌────────────┐[/color][color=#003b96]┌────────────┐[/color]
+   [color=#640096]◇│◇◇ Heal[/color]             [color=#960000]◈│◈◇ Move [/color]          [color=#003b96]◈│◇◇ Trick[/color]
+   [color=#640096]◇│◇◇ Make[/color]           [color=#960000]◈│◇◇ Fight[/color]            [color=#003b96]◈│◇◇ Sway[/color]
+   [color=#640096]◈│◇◇ Find[/color]             [color=#960000]◇│◇◇ Shoot[/color]           [color=#003b96]◈│◇◇ Sneak [/color]
+   [color=#640096]◈│◈◇ File[/color]               [color=#960000]◇│◇◇ Hack[/color]            [color=#003b96]◈│◇◇ Yell[/color]                                 [color=#640096]└────────────┘[/color][color=#960000]└────────────┘[/color][color=#003b96]└────────────┘[/color]  
+[color=#ffd929][bold]Abilities[/bold]
+─────────────────────────────────────────[/color]
+[color=#ffd929]✦[/color][bold] Dice Master:[/bold] When you push yourself you roll a d8 instead of an extra d6.
+[color=#ffd929]✦[/color][bold] I read about this once:[/bold] When you push yourself you may use your file skill in place of any other skill. 
+[color=#ffd929]✦[/color][bold] I'm just a librarian!:[/bold] Enemies attack anyone else first if they can.
+
+[color=#515151][bold]Gear[/bold]
+─────────────────────────────────────────[/color]
+A book, A cane, Bag of dice, Breath mask, emergency o2 tank.

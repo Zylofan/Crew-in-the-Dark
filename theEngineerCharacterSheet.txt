@@ -1,0 +1,21 @@
+┌─────────────────────┐                                  ❬[bold]C I T D[/bold]❭
+        [head=3]The Engineer[/head] 
+└─────────────────────┘
+
+[color=#ff0f0f][bold]Health:[/bold] ◯ ◯ ◯ [/color]     [color=#ffaa0f][bold]Energy:[/bold] ▽ ▽ ▽ ▽ ▽[/color]
+
+ [color=#640096]Awareness[/color]                  [color=#960000]Robustness[/color]                 [color=#003b96]Determination[/color] 
+[color=#640096]┌────────────┐[/color][color=#960000]┌────────────┐[/color][color=#003b96]┌────────────┐[/color]
+   [color=#640096]◇│◇◇ Heal[/color]             [color=#960000]◈│◇◇ Move [/color]          [color=#003b96]◇│◇◇ Trick[/color]
+   [color=#640096]◈│◈◈ Make[/color]           [color=#960000]◈│◇◇ Fight[/color]            [color=#003b96]◈│◇◇ Sway[/color]
+   [color=#640096]◈│◈◇ Find[/color]             [color=#960000]◇│◇◇ Shoot[/color]           [color=#003b96]◇│◇◇ Sneak [/color]
+   [color=#640096]◇│◇◇ File[/color]               [color=#960000]◈│◈◇ Hack[/color]            [color=#003b96]◇│◇◇ Yell[/color]                                 [color=#640096]└────────────┘[/color][color=#960000]└────────────┘[/color][color=#003b96]└────────────┘[/color] 
+[color=#ffd929][bold]Abilities[/bold]
+─────────────────────────────────────────[/color]
+[color=#ffd929]✦[/color][bold] I fix problems:[/bold]You have increased effect when crafting something.
+[color=#ffd929]✦[/color][bold] Like the back of my hand:[/bold]You have the station memorized and know where any location is.
+[color=#ffd929]✦[/color][bold] Tricks of the trade:[/bold]Push yourself to hotwire a welder and blind everyone around you or hotwire a multitool into a makeshift taser. The item is consumed after.
+
+[color=#515151][bold]Gear[/bold]
+─────────────────────────────────────────[/color]
+Engineer hard suit, tool belt and tools, 2 stacks of materials, 

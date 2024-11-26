@@ -1,0 +1,21 @@
+┌─────────────────────┐                                  ❬[bold]C I T D[/bold]❭
+        [head=3]Sec Officer[/head] 
+└─────────────────────┘
+
+[color=#ff0f0f][bold]Health:[/bold] ◯ ◯ ◯ ◯ [/color]     [color=#ffaa0f][bold]Energy:[/bold] ▽ ▽ ▽ ▽ [/color]
+
+ [color=#640096]Awareness[/color]                  [color=#960000]Robustness[/color]                 [color=#003b96]Determination[/color] 
+[color=#640096]┌────────────┐[/color][color=#960000]┌────────────┐[/color][color=#003b96]┌────────────┐[/color]
+   [color=#640096]◇│◇◇ Heal[/color]             [color=#960000]◈│◈◇Move  [/color]          [color=#003b96]◇│◇◇ Trick[/color]
+   [color=#640096]◇│◇◇ Make[/color]           [color=#960000]◈│◈◇ Fight[/color]            [color=#003b96]◈│◇◇ Sway[/color]
+   [color=#640096]◈│◇◇ Find[/color]             [color=#960000]◈│◈◇ Shoot[/color]           [color=#003b96]◇│◇◇ Sneak[/color]
+   [color=#640096]◈│◇◇ File[/color]               [color=#960000]◇│◇◇ Hack[/color]            [color=#003b96]◈│◇◇ Yell[/color]                                 [color=#640096]└────────────┘[/color][color=#960000]└────────────┘[/color][color=#003b96]└────────────┘[/color] 
+[color=#ffd929][bold]Abilities[/bold]
+─────────────────────────────────────────[/color]
+[color=#ffd929]✦[/color][bold] Search and Seizure:[/bold] Roll 1 die when you search a perp. On a 6 you find something useful you can confiscate.
+[color=#ffd929]✦[/color][bold] Justice:[/bold] When you detain or kill a syndicate member or monster, regain 1 energy.
+[color=#ffd929]✦[/color][bold] Shit Sec:[/bold] When you push yourself to beat down a target, gain increased effect and a bonus die.
+
+[color=#515151][bold]Gear[/bold]
+─────────────────────────────────────────[/color]
+Body Armor, Service Pistol, 1 pair of cuffs, Sunglasses, 1 clip of pistol ammo, 1 stun baton

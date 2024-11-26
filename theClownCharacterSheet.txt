@@ -1,0 +1,21 @@
+┌─────────────────────┐                                  ❬[bold]C I T D[/bold]❭
+        [head=3]The Clown[/head] 
+└─────────────────────┘
+
+[color=#ff0f0f][bold]Health:[/bold] ◯ ◯ [/color]     [color=#ffaa0f][bold]Energy:[/bold] ▽ ▽ ▽ ▽ ▽ ▽ [/color]
+
+ [color=#640096]Awareness[/color]                  [color=#960000]Robustness[/color]                 [color=#003b96]Determination[/color] 
+[color=#640096]┌────────────┐[/color][color=#960000]┌────────────┐[/color][color=#003b96]┌────────────┐[/color]
+   [color=#640096]◇│◇◇ Heal[/color]             [color=#960000]◈│◈◇ Move[/color]          [color=#003b96]◈│◈◈ Trick[/color]
+   [color=#640096]◈│◇◇ Make[/color]           [color=#960000]◈│◇◇ Fight[/color]            [color=#003b96]◇│◇◇ Sway[/color]
+   [color=#640096]◈│◇◇ Find[/color]             [color=#960000]◈│◇◇ Shoot[/color]           [color=#003b96]◇│◇◇ Sneak [/color]
+   [color=#640096]◇│◇◇ File[/color]               [color=#960000]◈│◇◇ Hack[/color]            [color=#003b96]◇│◇◇ Yell[/color]                                 [color=#640096]└────────────┘[/color][color=#960000]└────────────┘[/color][color=#003b96]└────────────┘[/color]  
+[color=#ffd929][bold]Abilities[/bold]
+─────────────────────────────────────────[/color]
+[color=#ffd929]✦[/color][bold] Laughter is the best medicine:[/bold]Once per session you may use this ability and then tell a joke, anyone who laughs recovers 1 health. Everyone else recovers 1 energy. ( You don't recover anything. ☹ )
+[color=#ffd929]✦[/color][bold] Give them the slip:[/bold]Your attempts to make a target slip and fall have increased effect.
+[color=#ffd929]✦[/color][bold] Degree in clowning:[/bold]Push yourself to throw a pie with super human accuracy over a great distance, or move across a slippery surface as if it were solid ground.
+
+[color=#515151][bold]Gear[/bold]
+─────────────────────────────────────────[/color]
+Full clown costume, 3 Pies, 1 bottle of space lube, A horn  

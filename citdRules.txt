@@ -1,0 +1,60 @@
+t                                               [head=2]C  I  T  D
+                                 Rules[/head]
+
+────────────────────────────────────────
+[color=#a3b8c8]You have awoken from cryo. The Station is in chaos. The Evac shuttle leaves in 10, what do you do?[/color]
+────────────────────────────────────────
+[head=3]ROLLING DICE[/head]
+
+When you take action roll an action. The number of pips an action has is how many dice you roll. Your result is the highest value rolled.
+
+1-3: You Fail, bad things happen to you.
+4-5: You succeed, but bad things happen to you
+6: You succeed, no bad things happen to you.
+
+If you have 0 pips, then you roll 2 dice and take the lowest result, instead of the highest.
+
+────────────────────────────────────────
+[color=#ff0f0f][head=3]DAMAGE and HEALING[/head][/color]
+As you play your health may be lowered from bad rolls. For every 2 health you lose you roll -1d when you take action.
+
+A player can try to heal another. The attempt consumes the healing item. 
+1-3: You Fail
+4-5: You heal 1 health
+6: You heal 2 health
+────────────────────────────────────────
+[color=#ffaa0f][head=3]ENERGY[/head][/color]
+
+Energy is what you spend to be cool.
+
+[bold]Assisting:[/bold] Spend 1 energy to help an ally and give them +1d
+
+[bold]Pushing:[/bold] Spend 2 energy to either increase the effect of your action or take +1d.
+
+[bold]Resisting:[/bold] When bad things happen to you, you can resist them and make it like they never happened. The GM will tell you what attribute to roll. You always resist, but the roll determines how much energy it drains from you. Be careful if you spend more energy then you have you take damage!
+
+1-3: Lose 3 energy
+4-5: Lose 2 energy
+6: Lose 1 energy
+────────────────────────────────────────
+[color=#ffaa0f][head=3]STATS[/head][/color]
+
+[head=3][color=#640096]Awareness:[/color][/head]  Used to resist being tricked, lied to, or unaware.
+[color=#640096]Heal:[/color] Your skill in stopping death.            
+[color=#640096]Make:[/color] Your skill in creating things.    
+[color=#640096]Find:[/color] Your skill in finding stuff or seeing stuff. 
+[color=#640096]File:[/color] Your ability to navigate paperwork.
+
+[head=3][color=#960000]Robustness:[/color][/head]  Used to resist being attacked, exhaustion, and ineptitude.
+[color=#960000]Move:[/color] Your ability to get around.          
+[color=#960000]Fight:[/color] Your skill in melee.
+[color=#960000]Shoot:[/color] Your ability to aim and fire. 
+[color=#960000]Hack:[/color] Your ability to open doors and access computers.
+
+[head=3][color=#003b96]Determination:[/color][/head] Used to resist mind control, depression, and temptation.
+[color=#003b96]Trick:[/color] Your skill in lying.        
+[color=#003b96]Sway:[/color] Your skill in getting people to do what you want.
+[color=#003b96]Sneak:[/color] Your ability to move unseen.
+[color=#003b96]Yell:[/color] Your ability to be heard and scare the shit out of people.     
+
+[color=#a3b8c8]The GM has final say on all rules. The Gm has the right to kick out any shit players acting shitty. [/color]

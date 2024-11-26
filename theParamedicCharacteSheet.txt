@@ -1,0 +1,21 @@
+┌─────────────────────┐                                  ❬[bold]C I T D[/bold]❭
+        [head=3]The Paramedic[/head] 
+└─────────────────────┘
+
+[color=#ff0f0f][bold]Health:[/bold] ◯ ◯ ◯[/color]     [color=#ffaa0f][bold]Energy:[/bold] ▽ ▽ ▽ ▽ ▽[/color]
+
+ [color=#640096]Awareness[/color]                  [color=#960000]Robustness[/color]                 [color=#003b96]Determination[/color] 
+[color=#640096]┌────────────┐[/color][color=#960000]┌────────────┐[/color][color=#003b96]┌────────────┐[/color]
+   [color=#640096]◈│◈◇ Heal[/color]             [color=#960000]◈│◈◇ Move [/color]          [color=#003b96]◇│◇◇ Trick[/color]
+   [color=#640096]◈│◇◇ Make[/color]           [color=#960000]◇│◇◇ Fight[/color]            [color=#003b96]◈│◇◇ Sway[/color]
+   [color=#640096]◈│◈◇ Find[/color]             [color=#960000]◈│◇◇ Shoot[/color]           [color=#003b96]◇│◇◇ Sneak [/color]
+   [color=#640096]◇│◇◇ File[/color]               [color=#960000]◈│◇◇ Hack[/color]            [color=#003b96]◇│◇◇ Yell[/color]                                 [color=#640096]└────────────┘[/color][color=#960000]└────────────┘[/color][color=#003b96]└────────────┘[/color]  
+[color=#ffd929][bold]Abilities[/bold]
+─────────────────────────────────────────[/color]
+[color=#ffd929]✦[/color][bold] ON MY WAY!:[/bold] When an ally goes down you may instantly take an action with +1d.
+[color=#ffd929]✦[/color][bold] I just make you not die:[/bold] You roll -1d to heal anyone with more than 0 health. But roll +2d when you heal anyone with zero health. 
+[color=#ffd929]✦[/color][bold] I got you:[/bold] When you assist an ally they ignore health penalties. 
+
+[color=#515151][bold]Gear[/bold]
+─────────────────────────────────────────[/color]
+Paramedic space suit, 3 auto injectors, 1 foldable gurney, 1 tank of breathable gas of your choice.
